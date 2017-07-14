@@ -3,73 +3,73 @@
 Place your responses inside the fenced code-blocks where indicated by comments.
 
 
-What are two ways of telling rails where to route a GET request to '/books/4'?
+1. What are two ways of telling rails where to route a GET request to '/books/4'?
 
-```rb
-// your response here
-```
+  ```rb
+  // your response here
+  ```
 
-In what file does the above code go?
+1. In what file does the above code go?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-In your own words, what does the command `bin/rake db:migrate` do?
+1. In your own words, what does the command `bin/rake db:migrate` do?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What is the difference between `bin/rails generate scaffold dogs` and
+1. What is the difference between `bin/rails generate scaffold dogs` and
 `bin/rails generate controller dogs`?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What is the job of the `serializer`?
+1. What is the job of the `serializer`?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What do we expect the command `Patient.all` to return?
+1. What do we expect the command `Patient.all` to return?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-We use the constant `Patient` in the `PatientsController`, but where is it
+1. We use the constant `Patient` in the `PatientsController`, but where is it
 actually defined?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-Why do our `model` files appear to be lacking so much code, when they're doing
+1. Why do our `model` files appear to be lacking so much code, when they're doing
 so much for us?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What does typing `bin/rails console` in a directory that houses a rails app do for
+1. What does typing `bin/rails console` in a directory that houses a rails app do for
 us?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What does typing `bin/rails db` in a directory that houses a rails app do for us?
+1. What does typing `bin/rails db` in a directory that houses a rails app do for us?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
 
-What is the specific name for the type of string our data will be coming back
+1. What is the specific name for the type of string our data will be coming back
 from the server in?
 
-```md
-// your response here
-```
+  ```md
+  // your response here
+  ```
