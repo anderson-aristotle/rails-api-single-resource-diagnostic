@@ -15,14 +15,14 @@ In what file does the above code go?
 // your response here
 ```
 
-In your own words, what does the command `bundle exec rake db:migrate` do?
+In your own words, what does the command `bin/rake db:migrate` do?
 
 ```md
 // your response here
 ```
 
-What is the difference between `rails generate scaffold dogs` and
-`rails generate controller dogs`?
+What is the difference between `bin/rails generate scaffold dogs` and
+`bin/rails generate controller dogs`?
 
 ```md
 // your response here
@@ -61,7 +61,7 @@ us?
 // your response here
 ```
 
-What does typing `rails db` in a directory that houses a rails app do for us?
+What does typing `bin/rails db` in a directory that houses a rails app do for us?
 
 ```md
 // your response here
