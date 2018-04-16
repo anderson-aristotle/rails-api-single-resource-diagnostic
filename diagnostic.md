@@ -9,65 +9,65 @@ Place your responses inside the fenced code-blocks where indicated by comments.
   // your response here
   ```
 
-1. In what file does the above code go?
+2. In what file does the above code go?
 
   ```md
   // your response here
   ```
 
-1. In your own words, what does the command `bin/rake db:migrate` do?
+3. In your own words, what does the command `bin/rake db:migrate` do?
 
   ```md
   // your response here
   ```
 
-1. What is the difference between `bin/rails generate scaffold dogs` and
+4. What is the difference between `bin/rails generate scaffold dogs` and
 `bin/rails generate controller dogs`?
 
   ```md
   // your response here
   ```
 
-1. What is the job of the `serializer`?
+5. What is the job of the `serializer`?
 
   ```md
   // your response here
   ```
 
-1. What do we expect the command `Patient.all` to return?
+6. What do we expect the command `Patient.all` to return?
 
   ```md
   // your response here
   ```
 
-1. We use the constant `Patient` in the `PatientsController`, but where is it
+7. We use the constant `Patient` in the `PatientsController`, but where is it
 actually defined?
 
   ```md
   // your response here
   ```
 
-1. Why do our `model` files appear to be lacking so much code, when they're doing
+8. Why do our `model` files appear to be lacking so much code, when they're doing
 so much for us?
 
   ```md
   // your response here
   ```
 
-1. What does typing `bin/rails console` in a directory that houses a rails app do for
+9. What does typing `bin/rails console` in a directory that houses a rails app do for
 us?
 
   ```md
   // your response here
   ```
 
-1. What does typing `bin/rails db` in a directory that houses a rails app do for us?
+10. What does typing `bin/rails db` in a directory that houses a rails app do for us?
 
   ```md
   // your response here
   ```
 
-1. What is the specific name for the type of string our data will be coming back
+11. What is the specific name for the type of string our data will be coming back
 from the server in?
 
   ```md
