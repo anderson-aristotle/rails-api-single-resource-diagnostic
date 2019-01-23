@@ -46,8 +46,8 @@ actually defined?
   // your response here
   ```
 
-8. Why do our `model` files appear to be lacking so much code, when they're doing
-so much for us?
+8. Our `model` files appear to not have much code. How are they able to
+accomplish more than what is done by the code directly written in the files?
 
   ```md
   // your response here
