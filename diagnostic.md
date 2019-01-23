@@ -2,7 +2,6 @@
 
 Place your responses inside the fenced code-blocks where indicated by comments.
 
-
 1. What are two ways of telling rails where to route a GET request to '/books/4'?
 
   ```rb
@@ -15,7 +14,7 @@ Place your responses inside the fenced code-blocks where indicated by comments.
   // your response here
   ```
 
-3. In your own words, what does the command `bin/rake db:migrate` do?
+3. In your own words, what does the command `bin/rails db:migrate` do?
 
   ```md
   // your response here
@@ -47,21 +46,22 @@ actually defined?
   // your response here
   ```
 
-8. Why do our `model` files appear to be lacking so much code, when they're doing
-so much for us?
+8. Our `model` files appear to not have much code. How are they able to
+accomplish more than what is done by the code directly written in the files?
 
   ```md
   // your response here
   ```
 
-9. What does typing `bin/rails console` in a directory that houses a rails app do for
-us?
+9. What does typing `bin/rails console` in a directory that houses a rails app
+do for us?
 
   ```md
   // your response here
   ```
 
-10. What does typing `bin/rails db` in a directory that houses a rails app do for us?
+10. What does typing `bin/rails db` in a directory that houses a rails app do
+for us?
 
   ```md
   // your response here
