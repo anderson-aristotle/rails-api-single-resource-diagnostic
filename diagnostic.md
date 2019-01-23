@@ -2,7 +2,6 @@
 
 Place your responses inside the fenced code-blocks where indicated by comments.
 
-
 1. What are two ways of telling rails where to route a GET request to '/books/4'?
 
   ```rb
@@ -54,14 +53,15 @@ so much for us?
   // your response here
   ```
 
-9. What does typing `bin/rails console` in a directory that houses a rails app do for
-us?
+9. What does typing `bin/rails console` in a directory that houses a rails app
+do for us?
 
   ```md
   // your response here
   ```
 
-10. What does typing `bin/rails db` in a directory that houses a rails app do for us?
+10. What does typing `bin/rails db` in a directory that houses a rails app do
+for us?
 
   ```md
   // your response here
