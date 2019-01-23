@@ -14,7 +14,7 @@ Place your responses inside the fenced code-blocks where indicated by comments.
   // your response here
   ```
 
-3. In your own words, what does the command `bin/rake db:migrate` do?
+3. In your own words, what does the command `bin/rails db:migrate` do?
 
   ```md
   // your response here
